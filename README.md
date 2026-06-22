@@ -110,10 +110,9 @@ This helps in identifying:
 
 ##  Future Improvements
 
-* Add more visualizations (bar charts, heatmaps)
+* Add more visualizations (bar charts)
 * Perform category-wise analysis
 * Build predictive models (sales forecasting)
-* Create dashboard using Power BI / Tableau
 
 ---
 
