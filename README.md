@@ -1,5 +1,5 @@
 # DecodeLabs Internship
-# 📊 Data Analytics Project – Sales Analysis (P2)
+# 📊 Data Analytics Project 3 – Sales Analysis 
 
 ##  Project Overview
 
